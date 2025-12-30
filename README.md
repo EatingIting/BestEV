@@ -117,14 +117,8 @@ com.ysc.bestev
 
 ## 🎯 개발 목적
 
-본 프로젝트는 안드로이드 앱 개발 학습과  
-실무에 가까운 구조 설계를 목표로 제작되었습니다.
+본 프로젝트는 안드로이드 앱 개발 학습을
+목표로 제작되었습니다.
 
 지도 SDK 활용, 공공 API 연동,  
 Fragment 기반 UI 구성 및 상태 관리에 중점을 두었습니다.
-
----
-
-## 📎 GitHub Repository
-
-https://github.com/EatingItlng/BestEV
