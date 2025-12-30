@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BestEV</string>
+    <string name="title_activity_main2">BestEV</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">사진 </string>
+    <string name="action_restaurant">로그아웃</string>
+
+    <string name="menu_home">메인 홈</string>
+    <string name="menu_mypage">마이페이지</string>
+    <string name="menu_gallery">전기차 정보(종류)</string>
+    <string name="menu_slideshow">설정</string>
+    <string name="title_activity_login2">LoginActivity2</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="sub_title">BestEV에서 내 근처에 있는 전기충전소를 찾아 충전을 해보세요.</string>
+    <string name="statName">충전소 주소</string>
+</resources>
